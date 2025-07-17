@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mahmoud Elnaggar 👋
 
-<!--
-**BabyDeveloper5/BabyDeveloper5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Self-taught Android Developer  
+📱 Focused on building clean and practical apps with Kotlin & Jetpack Compose  
+🚀 Currently building a halal product scanner app  
+📚 Learning APIs, Firebase, and full app deployment  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Kotlin, Jetpack Compose
+- MVVM Architecture
+- Room Database
+- Firebase (learning)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+- [Quiz App](https://github.com/BabyDeveloper5/quiz-app)
+- [Music Library App](https://github.com/BabyDeveloper5/music-app)
+- [Halal Product Scanner (WIP)](https://github.com/BabyDeveloper5/halal-scanner-app)
+
+## 📫 Let's connect
+[LinkedIn](https://www.linkedin.com/in/mahmoud-elnaggar5/) | [Email](mahmoudelnaggar20@email.com)
