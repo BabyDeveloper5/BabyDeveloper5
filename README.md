@@ -13,9 +13,10 @@
 - Git & GitHub
 
 ## 🛠️ Projects
-- [Quiz App](https://github.com/BabyDeveloper5/quiz-app)
-- [Music Library App](https://github.com/BabyDeveloper5/music-app)
-- [Halal Product Scanner (WIP)](https://github.com/BabyDeveloper5/halal-scanner-app)
+- [Halal Product Scanner (WIP)](https://github.com/BabyDeveloper5/HalalCheck)
+- [Quiz App](https://github.com/BabyDeveloper5/quizapp)
+- [Chat Room App](https://github.com/BabyDeveloper5/chatroomapp)
+
 
 ## 📫 Let's connect
 [LinkedIn](https://www.linkedin.com/in/mahmoud-elnaggar5/) | [Email](mahmoudelnaggar20@email.com)
